@@ -1,0 +1,6 @@
+﻿D:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+d:\data\desktop\c_code\ch7-lab1\source\main.c(39): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  User_defined.c
+  正在產生程式碼...
+  Example.vcxproj -> D:\Data\Desktop\C_code\Ch7-Lab1\Example\Example\..\..\temp\debug\Example.exe
